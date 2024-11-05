@@ -1,0 +1,13 @@
+{
+  "pakage-name": "defender-game",
+  "version": "1.0.0",
+  "description": "Browser based game",
+  "entry point": "index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "git-repository": "https://github.com/AlexandraYuT/ajs-homeworks/workspace",
+  "keywords": [
+    "game"
+  ],
+}
